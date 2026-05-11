@@ -1,1 +1,2 @@
-Learned how to use git push and pull combined with Github
+- Learned how to use git push and pull combined with Github
+- Learned how to solve merge conflicts in git itself on a Linux terminal
