@@ -10,3 +10,7 @@ Successfully pushed to GitHub!
 ## Features
 - Calculator with basic math operations
 - Error handling for divison by zero
+
+## Technologies
+- Python 3
+- Git & GitHub
