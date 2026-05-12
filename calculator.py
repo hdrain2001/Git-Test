@@ -5,6 +5,9 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
+def percentage(value, percent):
+    """Calculate percentage of a value"""
+    return (value * percent) / 100
 
 if __name__ == "__main__":
     print("Calculator loaded!")
