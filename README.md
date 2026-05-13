@@ -24,3 +24,4 @@ Successfully pushed to GitHub!
 # Testing Branch Protection
 
 This change should be blocked by branch protection!
+This line in the README is done in the editor locally.
